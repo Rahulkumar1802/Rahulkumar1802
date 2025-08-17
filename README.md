@@ -53,27 +53,27 @@
   <tr>
     <td align="center"><strong>Programming Languages</strong></td>
     <td align="center"><strong>Frontend Development</strong></td>
-    <td align="center"><strong>Backend Development</strong></td>
+<!--     <td align="center"><strong>Backend Development</strong></td> -->
     <td align="center"><strong>Databases</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+<!--       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/> -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js"/>
+<!--       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js"/> -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS"/>
-      <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/>
-  </td>
+<!--       <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/> -->
+<!--   </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="Spring Boot"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
